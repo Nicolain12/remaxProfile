@@ -1,0 +1,70 @@
+{
+    "mainStack": [
+        {
+            "name": "TypeScript",
+            "image": "TypeScript.png"
+        },
+        {
+            "name": "JavaScript",
+            "image": "JavaScript.png"
+        },
+        {
+            "name": "Node.js",
+            "image": "nodejs.png"
+        },
+        {
+            "name": "SQL",
+            "image": "sql.png"
+        },
+        {
+            "name": "APIs",
+            "image": "APIs.png"
+        },
+        {
+            "name": "React",
+            "image": "reactjs.webp"
+        },
+        {
+            "name": "HTML5",
+            "image": "html5.png"
+        },
+        {
+            "name": "CSS5",
+            "image": "css3.png"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Git",
+            "image": "git.png"
+        },
+        {
+            "name": "GitHub",
+            "image": "github.png"
+        },
+        {
+            "name": "MySQL",
+            "image": "MySQL.png"
+        },
+        {
+            "name": "Sequelize",
+            "image": "Sequelize.png"
+        },
+        {
+            "name": "Express.js",
+            "image": "Express.png"
+        },
+        {
+            "name": "Firebase",
+            "image": "firebase.png"
+        },
+        {
+            "name": "JsonWebToken",
+            "image": "JWT.svg"
+        },
+        {
+            "name": "Postman",
+            "image": "postman.png"
+        }
+    ]
+}
